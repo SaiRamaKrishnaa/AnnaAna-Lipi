@@ -19,7 +19,7 @@ const App: React.FC = () => {
     const [outputText, setOutputText] = useState<string>('');
     const [error, setError] = useState<string>('');
     const [wordZero, setWordZero] = useState<string>('Anna');
-    const [wordOne, setWordOne] = useState<string>('Ana');
+    const [wordOne, setWordOne] = useState<string>('Aaana');
     const [isSpeaking, setIsSpeaking] = useState<boolean>(false);
 
     useEffect(() => {
@@ -105,7 +105,7 @@ const App: React.FC = () => {
                                 value={inputText}
                                 onChange={(e) => setInputText(e.target.value)}
                                 rows={5}
-                                placeholder={mode === 'encode' ? 'Hello World...' : 'Ana Anna Ana...'}
+                                placeholder={mode === 'encode' ? 'Hello World...' : 'Aaana Anna Aaana...'}
                                 className="w-full p-4 bg-white/70 rounded-lg border-2 border-orange-200 focus:ring-2 focus:ring-orange-500 focus:border-orange-500 transition-all duration-300 resize-none shadow-inner"
                            />
                             {inputText && (

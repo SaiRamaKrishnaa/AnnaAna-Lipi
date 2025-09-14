@@ -1,21 +1,21 @@
-# AnnaAna-Lipi
+# AnnaAaana-Lipi
 
-**Mana Binary, Mana Lipi — Convert your text into Anna & Ana!**
+**Maanaa Binary, Maanaa Lipi — Convert your text into Anna & Aaana!**
 
-AnnaAna-Lipi is a React web app that reimagines binary code through the lens of Telugu culture.
-Instead of `0` and `1`, the app encodes text into **“Anna”** and **“Ana”** — complete with audio playback, South Indian styling, and playful interaction.
+AnnaAaana-Lipi is a React web app that reimagines binary code through the lens of Telugu culture.
+Instead of `0` and `1`, the app encodes text into **“Anna”** and **“Aaana”** — complete with audio playback, South Indian styling, and playful interaction.
 
 ---
 
 ## 🚀 Features
 
-* **Text → AnnaAna Code**
+* **Text → AnnaAaana Code**
 
-  * Input any text and convert it into binary with `0 = Anna` and `1 = Ana`.
+  * Input any text and convert it into binary with `0 = Anna` and `1 = Aaana`.
 
-* **AnnaAna Code → Text**
+* **AnnaAaana Code → Text**
 
-  * Decode Anna–Ana sequences back into normal text.
+  * Decode Anna–Aaana sequences back into normal text.
 
 * **Audio Playback**
 
@@ -24,7 +24,7 @@ Instead of `0` and `1`, the app encodes text into **“Anna”** and **“Ana”
 
 * **Customization**
 
-  * Replace the default words (`Anna`/`Ana`) with your own.
+  * Replace the default words (`Anna`/`Aaana`) with your own.
 
 * **South Indian Theme**
 
@@ -40,7 +40,7 @@ Instead of `0` and `1`, the app encodes text into **“Anna”** and **“Ana”
 ## 🎨 Tech Stack
 
 * **Frontend:** React + Tailwind CSS
-* **Audio:** Web Speech API (or pre-recorded Anna/Ana clips for smoother streaming)
+* **Audio:** Web Speech API (or pre-recorded Anna/Aaana clips for smoother streaming)
 * **Deployment:** Vercel / Netlify
 
 ---
@@ -56,9 +56,9 @@ Instead of `0` and `1`, the app encodes text into **“Anna”** and **“Ana”
 
 ```bash
 # Clone the repo
-git clone https://github.com/SaiRamaKrishnaa/AnnaAna-Lipi.git
+git clone https://github.com/SaiRamaKrishnaa/AnnaAaana-Lipi.git
 
-cd AnnaAna-Lipi
+cd AnnaAaana-Lipi
 
 # Install dependencies
 npm install
@@ -76,8 +76,8 @@ npm run dev
 
 ## 🔮 Roadmap
 
-* [x] Encode text → AnnaAna code
-* [x] Decode AnnaAna code → text
+* [x] Encode text → AnnaAaana code
+* [x] Decode AnnaAaana code → text
 * [x] Audio playback after full conversion
 * [ ] Real-time streaming audio (word-by-word)
 * [ ] Shareable code snippets / social media integration
