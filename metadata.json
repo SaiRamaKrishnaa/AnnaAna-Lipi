@@ -1,0 +1,5 @@
+{
+  "name": "Anna-Ana Binary Converter",
+  "description": "A modern, South Indian themed web app to encode and decode text into a customizable binary format ('Anna' for 0, 'Ana' for 1), featuring audio playback, copy, and download functionalities.",
+  "requestFramePermissions": []
+}
