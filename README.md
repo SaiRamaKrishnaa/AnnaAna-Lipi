@@ -56,7 +56,7 @@ Instead of `0` and `1`, the app encodes text into **“Anna”** and **“Ana”
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/AnnaAna-Lipi.git
+git clone https://github.com/SaiRamaKrishnaa/AnnaAna-Lipi.git
 
 cd AnnaAna-Lipi
 
